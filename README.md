@@ -42,22 +42,12 @@ docker run --rm --gpus all nvidia/cuda:11.8.0-base-ubuntu20.04 nvidia-smi
 
 ## Quick Start
 
-### 1. Build the Docker Image
+### 1. Load the Docker Image
 
-First, ensure you have built the Celesta binaries:
-
-```bash
-# From the project root
-mkdir -p build && cd build
-cmake -DCMAKE_BUILD_TYPE=Release ..
-make -j$(nproc)
-cd ../docker
-```
-
-Then build the Docker image:
+Load the prebuilt docker image with the following command.
 
 ```bash
-./build-docker.sh
+docker load -i celesta-docker.tar.gz
 ```
 
 ### 2. Prepare Your Dataset
