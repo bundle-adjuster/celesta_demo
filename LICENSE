@@ -1,0 +1,31 @@
+PROPRIETARY EVALUATION LICENSE
+Version 1.0
+
+Copyright (c) 2025 <Diwakar Ravichandran>
+All rights reserved.
+
+1. Grant of License
+Permission is hereby granted to use this software solely for
+non-commercial evaluation and testing purposes.
+
+2. Restrictions
+You may NOT:
+(a) use the software for any commercial purpose;
+(b) use the software in production systems or services;
+(c) redistribute, sublicense, publish, or share the software,
+    including any Docker images or binaries;
+(d) reverse engineer, decompile, or disassemble the software;
+(e) create derivative works based on the software.
+
+3. Ownership
+All rights, title, and interest in the software remain with the
+copyright holder.
+
+4. Termination
+This license terminates automatically upon any violation of
+these terms.
+
+5. Disclaimer
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+For commercial licensing, contact: <diwakarjravi@gmail.com>
